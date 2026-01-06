@@ -53,7 +53,7 @@ A comprehensive user management system with role-based access control (RBAC) for
 
 **Live Demo:** [management-portal-three.vercel.app/login](https://management-portal-three.vercel.app/login)
 
-**GitHub:** [View Repository](#) *(Add your repo link)*
+**GitHub:** [View Repository](https://github.com/pankajsoor09/management-portal)
 
 ---
 
@@ -84,32 +84,9 @@ A modern, responsive portfolio website to showcase my projects and skills.
 
 <div align="center">
   
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajsoor09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsoor09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pankajsoor09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
-
-## 🌱 Currently Working On
-- Building production-ready full-stack applications
-- Enhancing my portfolio website
-- Learning advanced React patterns and state management
-- Exploring cloud deployment best practices
-
-## 🎓 Education
-**Bachelor of Technology in Information Technology**  
-Nagpur University | Graduated: June 2024 | CGPA: 7.4
-
-## 💡 Core Competencies
-- Full-stack Development (MERN & Spring Boot)
-- RESTful API Design & Integration
-- Authentication & Authorization (JWT, bcrypt)
-- Database Design (MongoDB, MySQL)
-- Responsive UI/UX Design
-- Version Control (Git/GitHub)
-- Agile Collaboration
 
 ## 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-pankajsoor09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajsoor09@gmail.com)
@@ -118,12 +95,4 @@ Nagpur University | Graduated: June 2024 | CGPA: 7.4
 
 ---
 
-<div align="center">
-  
 💡 *"First, solve the problem. Then, write the code." – John Johnson*
-
-![Profile Views](https://komarev.com/ghpvc/?username=pankajsoor09&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-**Thanks for visiting! ⭐ Star my repos if you find them helpful!**
-
-</div>
