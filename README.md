@@ -14,10 +14,12 @@ I'm a Full Stack Developer with a B.Tech in Information Technology from Nagpur U
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,7 +53,7 @@ A comprehensive user management system with role-based access control (RBAC) for
 
 **Live Demo:** [management-portal-three.vercel.app/login](https://management-portal-three.vercel.app/login)
 
-**GitHub:** [View Repository](#) *(Add your repo link)*
+**GitHub:** [View Repository](https://github.com/pankajsoor09/management-portal)
 
 ---
 
@@ -80,46 +82,26 @@ A modern, responsive portfolio website to showcase my projects and skills.
 
 ## 📊 GitHub Stats
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajsoor09&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajsoor09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Pankaj's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsoor09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsoor09&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankajsoor09&theme=radical)](https://git.io/streak-stats)
-
-## 🌱 Currently Working On
-- Building production-ready full-stack applications
-- Enhancing my portfolio website
-- Learning advanced React patterns and state management
-- Exploring cloud deployment best practices
-
-## 🎓 Education
-**Bachelor of Technology in Information Technology**  
-Nagpur University | Graduated: June 2024 | CGPA: 7.4
-
-## 💡 Core Competencies
-- Full-stack Development (MERN & Spring Boot)
-- RESTful API Design & Integration
-- Authentication & Authorization (JWT, bcrypt)
-- Database Design (MongoDB, MySQL)
-- Responsive UI/UX Design
-- Version Control (Git/GitHub)
-- Agile Collaboration
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsoor09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pankajsoor09&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Coding Activity" width="48%" />
+</p>
 
 ## 📫 Let's Connect!
 - **Email:** pankajsoor09@gmail.com
 - **LinkedIn:** [linkedin.com/in/pankajsoor](https://linkedin.com/in/pankajsoor)
-- **GitHub:** [github.com/pankajsoor09](https://github.com/pankajsoor09)
-- **Location:** Pune, Maharashtra, India
-
-## ⚡ Fun Fact
-I love solving complex problems and turning ideas into functional applications. Always eager to learn new technologies and collaborate on exciting projects!
 
 ---
 
 💡 *"First, solve the problem. Then, write the code." – John Johnson*
 
-![Profile Views](https://komarev.com/ghpvc/?username=pankajsoor09&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pankajsoor09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ⭐️ From [Pankaj Soor](https://github.com/pankajsoor09)
