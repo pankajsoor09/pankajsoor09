@@ -18,7 +18,7 @@ I'm a Full Stack Developer with a B.Tech in Information Technology from Nagpur U
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Database
@@ -53,7 +53,7 @@ A comprehensive user management system with role-based access control (RBAC) for
 
 **Live Demo:** [management-portal-three.vercel.app/login](https://management-portal-three.vercel.app/login)
 
-**GitHub:** [View Repository](https://github.com/pankajsoor09/management-portal)
+**GitHub:** [View Repository](#) *(Add your repo link)*
 
 ---
 
@@ -82,26 +82,48 @@ A modern, responsive portfolio website to showcase my projects and skills.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajsoor09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Pankaj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsoor09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  
+![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajsoor09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsoor09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pankajsoor09&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Coding Activity" width="48%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsoor09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pankajsoor09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+## 🌱 Currently Working On
+- Building production-ready full-stack applications
+- Enhancing my portfolio website
+- Learning advanced React patterns and state management
+- Exploring cloud deployment best practices
+
+## 🎓 Education
+**Bachelor of Technology in Information Technology**  
+Nagpur University | Graduated: June 2024 | CGPA: 7.4
+
+## 💡 Core Competencies
+- Full-stack Development (MERN & Spring Boot)
+- RESTful API Design & Integration
+- Authentication & Authorization (JWT, bcrypt)
+- Database Design (MongoDB, MySQL)
+- Responsive UI/UX Design
+- Version Control (Git/GitHub)
+- Agile Collaboration
 
 ## 📫 Let's Connect!
-- **Email:** pankajsoor09@gmail.com
-- **LinkedIn:** [linkedin.com/in/pankajsoor](https://linkedin.com/in/pankajsoor)
+[![Email](https://img.shields.io/badge/Email-pankajsoor09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajsoor09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pankajsoor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajsoor)
+[![GitHub](https://img.shields.io/badge/GitHub-pankajsoor09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pankajsoor09)
 
 ---
 
+<div align="center">
+  
 💡 *"First, solve the problem. Then, write the code." – John Johnson*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankajsoor09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pankajsoor09&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-⭐️ From [Pankaj Soor](https://github.com/pankajsoor09)
+**Thanks for visiting! ⭐ Star my repos if you find them helpful!**
+
+</div>
