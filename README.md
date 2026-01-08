@@ -3,8 +3,6 @@
 ## 🚀 About Me
 I'm a Full Stack Developer with a B.Tech in Information Technology from Nagpur University. Currently working as a Frontend Developer Intern at Enterprise Minds Pvt. Ltd., I specialize in building scalable web applications with modern technologies. I'm passionate about creating efficient backend architectures and intuitive user interfaces.
 
-📍 Based in Pune, Maharashtra, India
-
 ## 💻 Tech Stack
 
 ### Frontend
