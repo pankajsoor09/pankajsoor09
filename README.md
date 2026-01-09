@@ -57,15 +57,6 @@ A comprehensive user management system with role-based access control (RBAC) for
 
 ### 🚀 Portfolio Website (Under Development)
 A modern, responsive portfolio website to showcase my projects and skills.
-
-**Tech Stack:** React, CSS/Tailwind, JavaScript
-
-**Features:**
-- Responsive design
-- Project showcase
-- Interactive UI elements
-- Contact form integration
-
 **Status:** 🔨 In Progress
 
 ---
