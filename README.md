@@ -55,7 +55,7 @@ A comprehensive user management system with role-based access control (RBAC) for
 
 ---
 
-### 🚀 Portfolio Website (Under Development)
+### 🚀 Portfolio Website 
 A modern, responsive portfolio website to showcase my projects and skills.
 **Status:** 🔨 In Progress
 
