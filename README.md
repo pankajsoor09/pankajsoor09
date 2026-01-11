@@ -67,7 +67,7 @@ A modern, responsive portfolio website to showcase my projects and skills.
 - Contributing to internal web projects for interns' learning and skill tracking
 - Integrating REST APIs for dynamic data display
 - Developing React-based UI components for dashboards and progress tracking
-- Collaborating in Agile environment with backend developers and designers
+- Collaborating in Agile environment with backend developers and designers.
 
 ## 📊 GitHub Stats
 
